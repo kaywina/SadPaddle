@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainGame.js">
+    <Files>
+      <File FileName="Assets\Scripts\TitleScene.js" Line="28" Column="5" />
+      <File FileName="Assets\Scripts\OptionsScene.js" Line="374" Column="1" />
+      <File FileName="Assets\Scripts\MenuScene.js" Line="16" Column="4" />
+      <File FileName="Assets\Scripts\WinLose.js" Line="10" Column="20" />
+      <File FileName="Assets\Scripts\MainGame.js" Line="63" Column="18" />
+      <File FileName="Assets\Scripts\Paddle.js" Line="14" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
